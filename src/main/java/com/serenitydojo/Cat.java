@@ -19,11 +19,6 @@ public class Cat extends Pet {
     }
 
     @Override
-    public String makeNoise() {
-        return "Meow";
-    }
-
-    @Override
     public String play() {
         return "plays with string";
     }
